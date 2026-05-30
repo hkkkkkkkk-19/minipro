@@ -1,7 +1,9 @@
 # MiniPro
 
 A Mini Project developed as part of the **6th Semester curriculum**. This project demonstrates the practical application of modern web development concepts, focusing on usability, functionality, and real-world problem solving.
+##  Live Demo
 
+**Website:** https://minipro-alpha.vercel.app/
 ## Features
 
 - User-friendly interface
