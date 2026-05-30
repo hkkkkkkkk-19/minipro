@@ -1,20 +1,49 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# MiniPro
 
-# Run and deploy your AI Studio app
+A Mini Project developed as part of the **6th Semester curriculum**. This project demonstrates the practical application of modern web development concepts, focusing on usability, functionality, and real-world problem solving.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/5a1fd005-dd10-455a-9bc1-0c871934c966
+- User-friendly interface
+- Responsive design
+- Fast and efficient performance
+- Secure and reliable functionality
+- Clean and organized code structure
+- Real-time interaction and dynamic updates
+- Scalable architecture for future enhancements
 
-## Run Locally
+## Technologies Used
 
-**Prerequisites:**  Node.js
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
 
+*(Update this section according to the technologies used in your project.)*
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Project Objectives
+
+- Apply theoretical concepts learned during the 6th semester.
+- Gain hands-on experience in full-stack development.
+- Build a practical solution to address real-world requirements.
+- Improve problem-solving, design, and implementation skills.
+
+## Future Enhancements
+
+- Additional features and functionality
+- Performance optimization
+- Enhanced security measures
+- Improved user experience and accessibility
+
+## Academic Information
+
+**Project Type:** Mini Project  
+**Semester:** 6th Semester  
+**Purpose:** Academic learning and practical implementation of software engineering and development concepts.
+
+---
+
+Developed as a part of the 6th Semester Mini Project to bridge the gap between academic learning and real-world application.
